@@ -1,5 +1,3 @@
-[python]: Here's a cleaned-up version of your GitHub README:
-
 # Screentime-Code
 
 This project is designed for use with a Mac and an Apple device. Feel free to fork it and make modifications for other devices.
