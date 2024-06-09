@@ -28,22 +28,26 @@ Make sure you have your Screen Time limits already set up. Once locked, the only
 
 ### Running the Program
 
-1. On your iPhone, navigate to the Screen Time lock password screen.
-2. On your Mac, open Terminal and run the following command:
+1. Clone or download the repository:
+   ```bash
+   git clone https://github.com/NikeManTan/Screentime-Code.git
+   cd Screentime-Code
+   ```
+
+2. On your iPhone, navigate to the Screen Time lock password screen.
+3. On your Mac, open Terminal and run the following command:
    ```bash
    python Screentime-Code.py
    ```
-3. Switch to the Keypad app you installed and click the keyboard icon.
+4. Switch to the Keypad app you installed and click the keyboard icon.
 
-The program will wait 5 seconds and then type a random 4-digit code twice. After it finishes typing, the code will be saved to a `.txt` file in the same folder as the program.
+The program will type a random 4-digit code twice. After it finishes typing, the code will be saved to a `.txt` file in the same folder as the program.
 
 ### Storing the Code
 
 - You can store the `.txt` file on a USB drive and give it to someone else.
 - Alternatively, use an app like Cold Turkey to lock the `.txt` file until a certain date.
 - If you feel confident, you could delete the file completely and never look back.
-
-This setup aims to help you manage your screen time addiction effectively.
 
 ---
 
