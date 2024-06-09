@@ -31,7 +31,7 @@ Make sure you have your Screen Time limits already set up. Once locked, the only
 1. On your iPhone, navigate to the Screen Time lock password screen.
 2. On your Mac, open Terminal and run the following command:
    ```bash
-   python Screentime-Password.py
+   python Screentime-Code.py
    ```
 3. Switch to the Keypad app you installed and click the keyboard icon.
 
